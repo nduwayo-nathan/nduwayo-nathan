@@ -15,17 +15,32 @@ I'm a dedicated student passionate about **cybersecurity** and **robotics** with
 ---
 
 ### 🛠️ Skills
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Django, Spring Boot
+- **Languages**: Python, JavaScript, HTML, CSS, PHP
+- **Frameworks**: Django, Laravel, Node.js, Express
 - **Tools**: Git, Linux, PostgreSQL, Wireshark, Binary Ninja
 - **Other**: Cybersecurity, Reverse Engineering, ANPR (Automatic Number Plate Recognition)
 
 ---
 
 ### 📂 Featured Projects
-- [**Weather App API**](https://github.com/YourUsername/weather-app-api): A REST API for real-time weather information.
-- [**Subscription Management System**](https://github.com/YourUsername/subscription-management): A Django-based app for managing subscriptions, renewals, and customer interactions.
-- [**Cybersecurity Challenges**](https://github.com/YourUsername/cybersecurity-challenges): Solutions to various CTFs and cybersecurity challenges.
+
+#### Web and Software Development
+- [**My Portfolio**](https://github.com/nduwayo-nathan/my-portifolio): Personal portfolio showcasing my work, skills, and experience.
+- [**Greenit App**](https://github.com/nduwayo-nathan/Greenit_app): An eco-focused app promoting sustainability and environmental consciousness.
+- [**Quiz App**](https://github.com/nduwayo-nathan/Quiz_App): A quiz application with interactive features and user-friendly design.
+- [**Small Chat App**](https://github.com/nduwayo-nathan/small-chat-app): A simple chat application built for real-time communication.
+- [**Todo App**](https://github.com/nduwayo-nathan/Todo-App): A basic to-do list application to manage tasks efficiently.
+
+#### Machine Learning & AI
+- [**CAR PLATE Recognition with YOLO**](https://github.com/nduwayo-nathan/CAR_PLATE_yolo_format_labels): Labeling car plates for recognition tasks, leveraging YOLO for machine learning.
+
+#### Game Development
+- [**Pygame Car Driving**](https://github.com/nduwayo-nathan/pygame_car-driving): A fun driving game developed using Pygame.
+
+#### Full-Stack & Backend Development
+- [**Back-End App with Node.js and Express**](https://github.com/nduwayo-nathan/cousera-Developing-Back-End-Apps-with-Node.js-and-Express-finalProject): A final project from Coursera focused on back-end development.
+- [**Laravel CRUD Project**](https://github.com/nduwayo-nathan/Laravel-crude-project): CRUD operations implemented in a Laravel application.
+- [**PHP CRUD Operation**](https://github.com/nduwayo-nathan/crud_operation_Php): Basic CRUD application using PHP.
 
 ---
 
@@ -44,7 +59,7 @@ I'm a dedicated student passionate about **cybersecurity** and **robotics** with
 ---
 
 ### 📊 GitHub Stats
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nduwayo-nathan&show_icons=true&theme=default)
 
 ---
 
