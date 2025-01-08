@@ -3,9 +3,10 @@
 🔹 Aspiring Cybersecurity and Robotics Specialist | **Tech Enthusiast** | **Student at Rwanda Coding Academy**
 
 ---
+![Banner Image](https://link-to-your-banner-image.com)
 
 ### 📖 About Me
-I'm a dedicated student passionate about **cybersecurity** and **robotics** with a strong interest in leveraging technology to solve real-world problems. I'm currently focused on building skills in software development, embedded systems, and cybersecurity while actively participating in various tech clubs and community projects.
+I'm a dedicated student passionate about **Software Programming** ** Emmbedded Systems/Intelligent Robotics** and  **cybersecurity** with a strong interest in leveraging technology to solve real-world problems. I'm currently focused on building skills in software development, embedded systems, and cybersecurity while actively participating in various tech clubs and community projects.
 
 - 🎓 **Education**: Rwanda Coding Academy
 - 🧑‍💻 **Interests**: Cybersecurity, Robotics, Software Development
@@ -44,10 +45,51 @@ I'm a dedicated student passionate about **cybersecurity** and **robotics** with
 
 ---
 
-### 📜 Certifications & Achievements
+### 📜 **Certifications & Achievements**
+
+#### ![UNICEF Certificate](https://your-link-to-unicef-image.com)  <!-- Replace with actual image -->
 - **UNICEF Certificate**: Technology for Emergencies
+
+#### ![Climate Science Olympiad](https://your-link-to-climate-science-image.com)  <!-- Replace with actual image -->
 - **Climate Science Olympiad**: Semi-Finalist
-- **I Lead Program**: Leadership training inspired by John Maxwell
+
+#### ![I Lead Program](https://your-link-to-ilead-program-image.com)  <!-- Replace with actual image -->
+- **I Lead Program**: Leadership training inspired by **John Maxwell**
+
+  ---
+  
+### 🛠️ **Mentorship and Volunteer Work**
+- **Tech Mentorship**: Actively mentoring young learners, especially in coding and problem-solving, to inspire them to explore technology.
+- **Community Service**: Volunteering at local community events, contributing my tech knowledge to improve everyday life.
+
+---
+
+### 🏅 **Hackathons and Competitions**
+- **Hackathon Name**: [Link to event or results]
+- **Competition Name**: [Link to event or results]
+
+---
+
+### 🌟 **What Drives Me**
+I'm passionate about using technology to create meaningful change, and I believe in leveraging my knowledge in cybersecurity and robotics to solve real-world problems. I actively contribute to **community projects** and **mentorship programs**, sharing my skills with the younger generation to help them grow in the tech space.
+
+---
+
+### ⚙️ **Current Projects in Progress**
+- **AI-powered IoT Automation**: Developing an app to automate IoT devices for smart homes and businesses.
+- **Cybersecurity Research**: Investigating new trends in ethical hacking and exploring ways to improve security systems for everyday users.
+- **Robotics**: Working on intelligent robotics systems, focusing on automation and autonomous machines.
+
+---
+
+### 🏆 **Community Impact**
+- **Tech Mentorship**: Volunteering to teach young students about coding and technology, inspiring the next generation of tech enthusiasts.
+- **Leadership in Church**: Organizing and leading tech events that help bridge the gap between technology and the community, empowering others through knowledge and innovation.
+
+---
+
+### 🌱 **Let's Build the Future Together**
+I believe that innovation comes from collaboration. If you're passionate about **cybersecurity**, **robotics**, or any other tech-related field, let's connect and create impactful solutions.
 
 ---
 
