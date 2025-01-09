@@ -1,56 +1,45 @@
-# Hi there 👋 I'm NDUWAYO Nathan
+# <p align="center"><span style="color: #F4A300;">Hi there 👋 I'm</span> <strong><span style="color: #D2691E;">NDUWAYO Nathan</span></strong></p>
 
-🔹 Aspiring Cybersecurity and Robotics Specialist | **Tech Enthusiast** | **Student at Rwanda Coding Academy**
 
----
-![Banner Image](./images/banner.jpg)"
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=800&center=true&vCenter=true&width=500&lines=Cybersecurity+%7C+Robotics+Enthusiast;Software+Developer+%7C+Problem+Solver;Tech+for+Good+Advocate+%7C+Tech+Mentor;Welcome+to+my+GitHub!&colors=F4A300,DAA520,D2691E,8B4513" alt="Typing Animation" />
+</p>
 
-### 📖 About Me
-I'm a dedicated student passionate about **Software Programming** ** Emmbedded Systems/Intelligent Robotics** and  **cybersecurity** with a strong interest in leveraging technology to solve real-world problems. I'm currently focused on building skills in software development, embedded systems, and cybersecurity while actively participating in various tech clubs and community projects.
 
-- 🎓 **Education**: Rwanda Coding Academy
-- 🧑‍💻 **Interests**: Cybersecurity, Robotics, Software Development
-- 🌱 **Currently Learning**: Advanced Python, Django, Reverse Engineering
-- 🎯 **Goals**: To pursue a career in cybersecurity and robotics engineering
-
----
-### 🛠️ Skills
-
-#### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### Frameworks & Libraries
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Binary Ninja](https://img.shields.io/badge/-Binary%20Ninja-E34A86?style=for-the-badge&logo=hackaday&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### Other Skills
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E86AB?style=for-the-badge&logo=trustpilot&logoColor=white) 
-![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-4CAF50?style=for-the-badge&logo=adguard&logoColor=white)  
-![ANPR](https://img.shields.io/badge/-ANPR-5A5A5A?style=for-the-badge&logo=machine-learning&logoColor=white)
 
 
 ---
 
-### 📂 Featured Projects
+<div align="center">
+  <img src="./images/banner.jpg" alt="Banner Image" style="max-width: 100%; border-radius: 15px; border: 2px solid #D2691E; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);" />
+</div>
+
+
+---
+
+### 📖 **About Me**
+I am a passionate tech enthusiast exploring the worlds of **Cybersecurity**, **Robotics**, and **Software Development**. With a drive to solve problems through technology, I actively engage in community-building initiatives and practical projects.
+
+- 🌟 **Focus Areas**: Software Programming, Embedded Systems, Intelligent Robotics, and Cybersecurity
+- 🌱 **Currently Learning**: Advanced Python, Django, and Reverse Engineering
+- 🎯 **Future Goals**: To specialize in **cybersecurity** and **robotics engineering** while empowering others through mentorship
+- 💬 **Fun Fact**: I enjoy both coding and teaching tech to young learners
+
+---
+
+### 🛠️ **Skills**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php&theme=dark" alt="Programming Languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs,spring,laravel,mysql,postgres&theme=dark" alt="Frameworks and Tools" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,wireshark&theme=dark" alt="Other Tools" />
+</p>
+
+---
 
 #### Web and Software Development
 - [**My Portfolio**](https://github.com/nduwayo-nathan/my-portifolio): Personal portfolio showcasing my work, skills, and experience.
@@ -72,64 +61,44 @@ I'm a dedicated student passionate about **Software Programming** ** Emmbedded S
 
 ---
 
-### 📜 **Certifications & Achievements**
-
-#### ![UNICEF Certificate](https://your-link-to-unicef-image.com)  <!-- Replace with actual image -->
-- **UNICEF Certificate**: Technology for Emergencies
-
-#### ![Climate Science Olympiad](https://your-link-to-climate-science-image.com)  <!-- Replace with actual image -->
-- **Climate Science Olympiad**: Semi-Finalist
-
-#### ![I Lead Program](https://your-link-to-ilead-program-image.com)  <!-- Replace with actual image -->
-- **I Lead Program**: Leadership training inspired by **John Maxwell**
-
-  ---
-  
-### 🛠️ **Mentorship and Volunteer Work**
-- **Tech Mentorship**: Actively mentoring young learners, especially in coding and problem-solving, to inspire them to explore technology.
-- **Community Service**: Volunteering at local community events, contributing my tech knowledge to improve everyday life.
+### 🏅 **Certifications & Achievements**
+- **Technology for Emergencies** (UNICEF): Leveraging tech for disaster management
+- **Climate Science Olympiad Semi-Finalist**: Innovating for environmental sustainability
+- **I Lead Program**: Leadership development inspired by John Maxwell
 
 ---
 
-### 🏅 **Hackathons and Competitions**
-- **Hackathon Name**: [Link to event or results]
-- **Competition Name**: [Link to event or results]
+### <span style="color: #F4A300;">📊 <strong>GitHub Stats</strong></span>
+
+<div align="center" style="border: 2px solid #DAA520; padding: 20px; background-color: #8B4513; border-radius: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nduwayo-nathan&show_icons=true&theme=radical" alt="Nathan's GitHub Stats" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+</div>
+
+<div align="center" style="border: 2px solid #DAA520; padding: 20px; background-color: #8B4513; border-radius: 15px; margin-top: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nduwayo-nathan&theme=radical" alt="Nathan's GitHub Streak" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+</div>
+
+<div align="center" style="border: 2px solid #DAA520; padding: 20px; background-color: #8B4513; border-radius: 15px; margin-top: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nduwayo-nathan&layout=compact&theme=radical" alt="Most Used Languages" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+</div>
+
 
 ---
 
-### 🌟 **What Drives Me**
-I'm passionate about using technology to create meaningful change, and I believe in leveraging my knowledge in cybersecurity and robotics to solve real-world problems. I actively contribute to **community projects** and **mentorship programs**, sharing my skills with the younger generation to help them grow in the tech space.
+### 📫 **Connect with Me**
+
+<p align="center">
+  <a href="mailto:nduwayonathan5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/nduwayonathan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YourTwitterHandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
 ---
 
-### ⚙️ **Current Projects in Progress**
-- **AI-powered IoT Automation**: Developing an app to automate IoT devices for smart homes and businesses.
-- **Cybersecurity Research**: Investigating new trends in ethical hacking and exploring ways to improve security systems for everyday users.
-- **Robotics**: Working on intelligent robotics systems, focusing on automation and autonomous machines.
-
----
-
-### 🏆 **Community Impact**
-- **Tech Mentorship**: Volunteering to teach young students about coding and technology, inspiring the next generation of tech enthusiasts.
-- **Leadership in Church**: Organizing and leading tech events that help bridge the gap between technology and the community, empowering others through knowledge and innovation.
-
----
-
-### 🌱 **Let's Build the Future Together**
-I believe that innovation comes from collaboration. If you're passionate about **cybersecurity**, **robotics**, or any other tech-related field, let's connect and create impactful solutions.
-
----
-
-### 📫 Connect with Me
-- **Email**: [nduwayonathan5@gmail.com](mailto:nduwayonathan5@gmail.com)
-- **LinkedIn**: [linkedin.com/in/nduwayonathan](https://www.linkedin.com/in/nduwayonathan)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
----
-
-### 📊 GitHub Stats
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nduwayo-nathan&show_icons=true&theme=default)
-
----
-
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or discuss tech projects! 😊
+<p align="center">✨ Thank you for visiting my profile! Let's collaborate to create impactful solutions. 😊</p>
