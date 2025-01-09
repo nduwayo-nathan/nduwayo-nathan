@@ -27,17 +27,34 @@ I am a passionate tech enthusiast exploring the worlds of **Cybersecurity**, **R
 
 ---
 
+update this 
+
 ### 🛠️ **Skills**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php&theme=dark" alt="Programming Languages" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,nodejs,spring,laravel,mysql,postgres&theme=dark" alt="Frameworks and Tools" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,wireshark&theme=dark" alt="Other Tools" />
-</p>
+| **Programming Languages**        | **Frameworks and Tools**          | **Other Tools**                |
+|----------------------------------|----------------------------------|--------------------------------|
+| ![Python](https://skillicons.dev/icons?i=python&theme=dark)    | ![Django](https://skillicons.dev/icons?i=django&theme=dark)   | ![Git](https://skillicons.dev/icons?i=git&theme=dark)           |
+| **Python**                       | **Django**                       | **Git**                        |
+| ![Java](https://skillicons.dev/icons?i=java&theme=dark)        | ![React](https://skillicons.dev/icons?i=react&theme=dark)     | ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)     |
+| **Java**                         | **React**                        | **GitHub**                     |
+| ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)          | ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)   | ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)       |
+| **C++**                          | **Node.js**                      | **Linux**                      |
+| ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)     | ![Spring](https://skillicons.dev/icons?i=spring&theme=dark)    | ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)    |
+| **JavaScript**                   | **Spring**                       | **VS Code**                    |
+| ![HTML](https://skillicons.dev/icons?i=html&theme=dark)         | ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)  | ![IDEA](https://skillicons.dev/icons?i=idea&theme=dark)         |
+| **HTML**                         | **Laravel**                      | **IDEA**                       |
+| ![CSS](https://skillicons.dev/icons?i=css&theme=dark)           | ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)      | ![Wireshark](https://skillicons.dev/icons?i=wireshark&theme=dark)|
+| **CSS**                          | **MySQL**                        | **Wireshark**                  |
+| ![PHP](https://skillicons.dev/icons?i=php&theme=dark)           | ![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark)| ![Blender](https://skillicons.dev/icons?i=blender&theme=dark)   |
+| **PHP**                          | **Postgres**                     | **Blender**                    |
+| ![Solidity](https://skillicons.dev/icons?i=solidity&theme=dark) | ![Figma](https://skillicons.dev/icons?i=figma&theme=dark)      | ![Packet Tracer](https://skillicons.dev/icons?i=packet-tracer&theme=dark)|
+| **Solidity**                     | **Figma**                        | **Packet Tracer**              |
+| ![Web3](https://skillicons.dev/icons?i=web3&theme=dark)         | ![DevOps](https://skillicons.dev/icons?i=devops&theme=dark)    | ![Photoshop](https://skillicons.dev/icons?i=photoshop&theme=dark)|
+| **Web3**                         | **DevOps**                       | **Photoshop**                  |
+| ![Blockchain](https://skillicons.dev/icons?i=blockchain&theme=dark) | ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)  | ![MariaDB](https://skillicons.dev/icons?i=mariadb&theme=dark)   |
+| **Blockchain**                   | **MongoDB**                      | **MariaDB**                    |
+| ![C](https://skillicons.dev/icons?i=c&theme=dark)               |                                  |                                |
+| **C**                            |                                  |                                |
 
 ---
 
