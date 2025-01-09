@@ -3,7 +3,7 @@
 🔹 Aspiring Cybersecurity and Robotics Specialist | **Tech Enthusiast** | **Student at Rwanda Coding Academy**
 
 ---
-![Banner Image](https://link-to-your-banner-image.com)
+![Banner Image]("./images/banner.png")"
 
 ### 📖 About Me
 I'm a dedicated student passionate about **Software Programming** ** Emmbedded Systems/Intelligent Robotics** and  **cybersecurity** with a strong interest in leveraging technology to solve real-world problems. I'm currently focused on building skills in software development, embedded systems, and cybersecurity while actively participating in various tech clubs and community projects.
@@ -16,8 +16,8 @@ I'm a dedicated student passionate about **Software Programming** ** Emmbedded S
 ---
 
 ### 🛠️ Skills
-- **Languages**: Python, JavaScript, HTML, CSS, PHP
-- **Frameworks**: Django, Laravel, Node.js, Express
+- **Languages**: Python, JavaScript, HTML, CSS, PHP,Java,C,C++
+- **Frameworks**: Django, Laravel, Node.js, Express,FASTApi
 - **Tools**: Git, Linux, PostgreSQL, Wireshark, Binary Ninja
 - **Other**: Cybersecurity, Reverse Engineering, ANPR (Automatic Number Plate Recognition)
 
