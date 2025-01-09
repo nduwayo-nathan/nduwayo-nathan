@@ -14,25 +14,38 @@ I'm a dedicated student passionate about **Software Programming** ** Emmbedded S
 - 🎯 **Goals**: To pursue a career in cybersecurity and robotics engineering
 
 ---
-
 ### 🛠️ Skills
 
 #### Programming Languages
-![Python](https://img.shields.io/badge/Python-3.9-blue) ![Java](https://img.shields.io/badge/Java-11-orange) ![C++](https://img.shields.io/badge/C++-17-blue)  
-![C](https://img.shields.io/badge/C-99-darkblue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![PHP](https://img.shields.io/badge/PHP-8-purple)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-3.2-green) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-brightgreen) ![Laravel](https://img.shields.io/badge/Laravel-8-red)  
-![React](https://img.shields.io/badge/React-18.2-blue) ![Node.js](https://img.shields.io/badge/Node.js-16-green) ![Express](https://img.shields.io/badge/Express-4.17-lightgrey)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### Tools
-![Git](https://img.shields.io/badge/Git-2.33-orange) ![GitHub](https://img.shields.io/badge/GitHub-Account-darkgreen) ![Linux](https://img.shields.io/badge/Linux-Ubuntu-red)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue) ![MySQL](https://img.shields.io/badge/MySQL-8-blue) ![Wireshark](https://img.shields.io/badge/Wireshark-3.4.6-lightblue)  
-![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-2.3-orange) ![VS Code](https://img.shields.io/badge/VS%20Code-1.68-purple)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Binary Ninja](https://img.shields.io/badge/-Binary%20Ninja-E34A86?style=for-the-badge&logo=hackaday&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### Other Skills
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Analysis-brightgreen) ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Expert-orange)  
-![ANPR](https://img.shields.io/badge/ANPR-Systems-blue)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E86AB?style=for-the-badge&logo=trustpilot&logoColor=white) 
+![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-4CAF50?style=for-the-badge&logo=adguard&logoColor=white)  
+![ANPR](https://img.shields.io/badge/-ANPR-5A5A5A?style=for-the-badge&logo=machine-learning&logoColor=white)
 
 
 ---
