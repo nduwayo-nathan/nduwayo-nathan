@@ -16,10 +16,24 @@ I'm a dedicated student passionate about **Software Programming** ** Emmbedded S
 ---
 
 ### 🛠️ Skills
-- **Languages**: Python, JavaScript, HTML, CSS, PHP,Java,C,C++
-- **Frameworks**: Django, Laravel, Node.js, Express,FASTApi
-- **Tools**: Git, Linux, PostgreSQL, Wireshark, Binary Ninja
-- **Other**: Cybersecurity, Reverse Engineering, ANPR (Automatic Number Plate Recognition)
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3.9-blue) ![Java](https://img.shields.io/badge/Java-11-orange) ![C++](https://img.shields.io/badge/C++-17-blue)  
+![C](https://img.shields.io/badge/C-99-darkblue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![PHP](https://img.shields.io/badge/PHP-8-purple)
+
+#### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-3.2-green) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-brightgreen) ![Laravel](https://img.shields.io/badge/Laravel-8-red)  
+![React](https://img.shields.io/badge/React-18.2-blue) ![Node.js](https://img.shields.io/badge/Node.js-16-green) ![Express](https://img.shields.io/badge/Express-4.17-lightgrey)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-2.33-orange) ![GitHub](https://img.shields.io/badge/GitHub-Account-darkgreen) ![Linux](https://img.shields.io/badge/Linux-Ubuntu-red)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue) ![MySQL](https://img.shields.io/badge/MySQL-8-blue) ![Wireshark](https://img.shields.io/badge/Wireshark-3.4.6-lightblue)  
+![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-2.3-orange) ![VS Code](https://img.shields.io/badge/VS%20Code-1.68-purple)
+
+#### Other Skills
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Analysis-brightgreen) ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Expert-orange)  
+![ANPR](https://img.shields.io/badge/ANPR-Systems-blue)
+
 
 ---
 
