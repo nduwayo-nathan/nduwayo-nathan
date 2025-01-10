@@ -27,8 +27,6 @@ I am a passionate tech enthusiast exploring the worlds of **Cybersecurity**, **R
 
 ---
 
-update this 
-
 ### 🛠️ **Skills**
 
 | **Programming Languages**        | **Frameworks and Tools**          | **Other Tools**                |
