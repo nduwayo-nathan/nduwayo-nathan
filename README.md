@@ -128,29 +128,21 @@
 
 ---
 
-## 🚀 Featured Projects
+
+## 🚀 Featured Projects & Experience
+
+<div align="center">
+
+| 🏢 Project | 🏛️ Organization | 📝 Description | 🛠️ Contribution |
+|:---|:---|:---|:---|
+| **PMTS** – Project Management Tracking System | Ministry of Environment 🇷🇼 | A system to plan, monitor, and track government projects | Feature development, API integration, bug fixes |
+| **Business Analytics Platform** | SONARWA Life Assurance Co. Ltd | Reporting & analytics for insurance data — policies, premiums, claims, payments | Frontend & backend development, reporting features, database integration |
+| **IsokoSmart** – E-commerce Platform | Personal / Freelance | E-commerce platform for products, orders, inventory & customer management (.NET Backend) | Backend APIs, business logic, bug fixes |
+
+</div>
 
 <p align="center">
-<p align="center">
-  <a href="https://github.com/NDUWAYO-Nathan/my-portfolio_v2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NDUWAYO-Nathan&repo=my-portfolio_v2&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  </a>
-</p>
-
-  <a href="https://github.com/NDUWAYO-Nathan/my-portfolio_v2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NDUWAYO-Nathan&repo=PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  </a>
-  <a href="https://github.com/NDUWAYO-Nathan/PROJECT_2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NDUWAYO-Nathan&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/NDUWAYO-Nathan/PROJECT_3">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NDUWAYO-Nathan&repo=PROJECT_3&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  </a>
-  <a href="https://github.com/NDUWAYO-Nathan/PROJECT_4">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NDUWAYO-Nathan&repo=PROJECT_4&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  </a>
+  <img src="https://img.shields.io/badge/+%20Many%20More%20Personal%20%26%20Freelance%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff"/>
 </p>
 
 ---
