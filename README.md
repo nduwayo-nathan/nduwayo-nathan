@@ -1,4 +1,4 @@
-<!-- ===== HEADER BANNER ===== -->
+﻿<!-- ===== HEADER BANNER ===== -->
 <a href="https://github.com/NDUWAYO-Nathan">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NDUWAYO%20Nathan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20•%20Robotics%20•%20Software%20Engineering&descAlignY=60&descSize=18" alt="header"/>
 </a>
@@ -89,6 +89,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NDUWAYO-Nathan&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
 </p>
 
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDUWAYO-Nathan&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=NDUWAYO-Nathan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
@@ -145,12 +146,12 @@
 ## 🎯 Skill Proficiency (self-rated)
 
 ```text
-Python       ██████████████████░░  90%
-JavaScript   ████████████████░░░░  80%
-Java         ██████████████░░░░░░  70%
+JavaScript   ██████████████████░░  95%
+React        ████████████████░░░░  90%
+Java         ████████████████░░░░  80%
+Python       ██████████████░░░░░░  70%
 C / C++      █████████████░░░░░░░  65%
 Django       █████████████████░░░  85%
-React        ████████████████░░░░  80%
 Cybersecurity████████████████░░░░  80%
 Robotics     ██████████████░░░░░░  70%
 Blockchain   █████████████░░░░░░░  65%
