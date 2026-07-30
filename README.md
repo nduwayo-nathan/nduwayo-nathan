@@ -6,7 +6,7 @@
 <!-- ===== TYPING INTRO ===== -->
 <p align="center">
   <a href="https://github.com/NDUWAYO-Nathan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+NDUWAYO+Nathan;Cybersecurity+Enthusiast+%7C+Robotics+Builder;Full-Stack+Developer+%7C+Tech+Mentor;Turning+ideas+into+impactful+solutions+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+NDUWAYO+Nathan;Full-Stack+Developer+%7C+Robotics+Builder;Cybersecurity+Enthusiast+%7C+Tech+Mentor;Turning+ideas+into+impactful+solutions+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -15,11 +15,17 @@
   <img src="https://komarev.com/ghpvc/?username=NDUWAYO-Nathan&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="views"/>
   <img src="https://img.shields.io/github/followers/NDUWAYO-Nathan?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
   <img src="https://img.shields.io/github/stars/NDUWAYO-Nathan?label=Stars&style=for-the-badge&color=yellow" alt="stars"/>
-  <a href="mailto:your.nduwayonathan5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+<p>
+<p align="center">
+  <a href="mailto:nduwayonathan5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/nduwayo-n-b333bb261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://nduwayo-nathan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://wa.me/250790774445"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
+
+</p>
 
 ## 📖 About Me
 
@@ -125,7 +131,13 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/NDUWAYO-Nathan/PROJECT_1">
+<p align="center">
+  <a href="https://github.com/NDUWAYO-Nathan/my-portfolio_v2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NDUWAYO-Nathan&repo=my-portfolio_v2&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  </a>
+</p>
+
+  <a href="https://github.com/NDUWAYO-Nathan/my-portfolio_v2">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NDUWAYO-Nathan&repo=PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
   <a href="https://github.com/NDUWAYO-Nathan/PROJECT_2">
@@ -146,18 +158,12 @@
 ## 🎯 Skill Proficiency (self-rated)
 
 ```text
-JavaScript   ██████████████████░░  95%
-React        ████████████████░░░░  90%
-Java         ████████████████░░░░  80%
-Python       ██████████████░░░░░░  70%
-C / C++      █████████████░░░░░░░  65%
-Django       █████████████████░░░  85%
-Cybersecurity████████████████░░░░  80%
-Robotics     ██████████████░░░░░░  70%
-Blockchain   █████████████░░░░░░░  65%
-DevOps       ████████████░░░░░░░░  60%
+JavaScript   ██████████████████░░  95%          React        ████████████████░░░░  90%
+Java         ████████████████░░░░  80%          Python       ██████████████░░░░░░  70%
+C / C++      █████████████░░░░░░░  65%          Django       █████████████████░░░  85%
+Cybersecurity████████████████░░░░  80%          Robotics     ██████████████░░░░░░  70%
+Blockchain   █████████████░░░░░░░  65%          DevOps       ████████████░░░░░░░░  60%
 ```
-
 ---
 
 ## 🏅 Certifications & Achievements
@@ -199,11 +205,12 @@ DevOps       ████████████░░░░░░░░  60%
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://dev.to/YOUR_HANDLE"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="mailto:nduwayonathan5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nduwayo-n-b333bb261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://nduwayo-nathan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://wa.me/250790774445"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
 </p>
 
 ---
