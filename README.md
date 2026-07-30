@@ -155,16 +155,23 @@
 
 ---
 
-## 🎯 Skill Proficiency (self-rated)
+## 🎯 Skill Proficiency
 
-```text
-JavaScript   ██████████████████░░  95%          React        ████████████████░░░░  90%
-Java         ████████████████░░░░  80%          Python       ██████████████░░░░░░  70%
-C / C++      █████████████░░░░░░░  65%          Django       █████████████████░░░  85%
-Cybersecurity████████████████░░░░  80%          Robotics     ██████████████░░░░░░  70%
-Blockchain   █████████████░░░░░░░  65%          DevOps       ████████████░░░░░░░░  60%
-```
----
+<div align="center">
+
+| 💻 Languages | ⚙️ Frameworks & Tools | 🗄️ Databases |
+|:---|:---|:---|
+| JavaScript `██████████████████` 95% | REST APIs `██████████████████` 95% | MySQL `████████████████` 95% |
+| TypeScript `██████████████████` 95% | React `██████████████████` 95% | PostgreSQL `███████████████░░░` 85% |
+| Java `██████████████░░░░` 85% | Laravel `██████████████████` 95% | SQLite `█████████████░░░░░` 75% |
+| PHP `█████████████░░░░░` 80% | Git/GitHub `███████████████░░░` 90% | MongoDB `██████████░░░░░░` 70% |
+| Python `███████████░░░░░░░` 80% | Node.js `██████████████░░░░` 90% | Firebase `██████████░░░░░░` 70% |
+| C / C++ `██████████░░░░░░░░` 75% | Linux `██████████████░░░░` 85% | |
+| | Django `███████████░░░░░░░` 75% | |
+| | Docker `██████████░░░░░░░░` 70% | |
+
+</div>
+
 
 ## 🏅 Certifications & Achievements
 
@@ -180,7 +187,7 @@ Blockchain   █████████████░░░░░░░  65%  
 
 ## 📚 Currently Working On
 
-- 🔭 **Building** an intelligent robotics platform with computer vision
+- 🔭 **Building** a Business Analytic Application platform
 - 🌱 **Learning** advanced reverse engineering & malware analysis
 - 👯 **Collaborating** on open-source cybersecurity tooling
 - 🧑‍🏫 **Mentoring** young developers in Rwanda
